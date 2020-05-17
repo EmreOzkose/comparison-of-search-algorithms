@@ -1,7 +1,7 @@
 ![Info](images/astar_title_abstact.png)
 
 # comparison-of-search-algorithms
-2 different problems are applied 4 different search algorithm: depth first search, breadth first search, uniform cost search and A*.
+2 different problems are applied 4 different search algorithm: depth first search, breadth first search, uniform cost search and A*. Implementations of search algorithms are taken from [here](https://github.com/chitholian/AI-Search-Algorithms)
 
 ### Problem 1:
 ![Info](images/map-info.png)
